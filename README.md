@@ -2,9 +2,9 @@
 
 <p align="center">
   <img
-    src="./assets/profile-banner.svg"
-    alt="Bharani Kanagaraj GitHub Profile Banner"
+    src="https://capsule-render.vercel.app/api?type=venom&height=205&text=Bharani%20Kanagaraj&fontSize=48&fontAlign=50&fontAlignY=41&desc=AI%20and%20Data%20Science%20%7C%20Developer%20%7C%20Creative%20Builder&descAlign=50&descAlignY=63&animation=fadeIn"
     width="100%"
+    alt="Bharani Kanagaraj"
   />
 </p>
 
