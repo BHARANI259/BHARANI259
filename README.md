@@ -1,267 +1,233 @@
-<!-- =========================================================
-                  BHARANI KANAGARAJ
-            VISUAL GITHUB PROFILE README
-========================================================== -->
+<!-- ============================================================
+  BHARANI KANAGARAJ — CLEAN / LEFT-ALIGNED / VISUAL GITHUB README
+  Designed for GitHub special profile repository
+============================================================= -->
 
-<div align="center">
+<!-- ============================ HERO ============================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&text=Bharani%20Kanagaraj&fontSize=54&fontAlignY=42&desc=AI%20Explorer%20%7C%20Builder%20%7C%20Creative%20Thinker&descAlignY=62&animation=fadeIn" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=190&text=Bharani%20Kanagaraj&fontSize=48&fontAlign=24&fontAlignY=42&desc=AI%20Explorer%20%7C%20Developer%20%7C%20Creative%20Builder&descAlign=25&descAlignY=64&animation=fadeIn"
+width="100%"
+alt="Bharani Kanagaraj"
+/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&pause=900&center=true&vCenter=true&width=760&lines=Turning+ideas+into+working+things;Learning+through+building;Exploring+AI+with+curiosity;Creating+with+code+and+design" />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&center=false&vCenter=true&width=760&lines=Building+ideas+into+useful+products;Exploring+AI+through+real+projects;Learning.+Building.+Improving."
+alt="Typing introduction"
+/>
 
 <br/><br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/bharani-kanagaraj/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://bharanikanagaraj.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-View-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/BHARANI259">
+  <img src="https://img.shields.io/badge/GitHub-BHARANI259-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/u/BHARANIK2007/">
+  <img src="https://img.shields.io/badge/LeetCode-BHARANIK2007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=BHARANI259&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
 
-</div>
+Profile
 
-<div align="center">
-
-About Me
+AI and Data Science undergraduate focused on building practical, useful and visually thoughtful solutions.
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/thinkpad" width="42"/><br/><br/>
-<b>Think</b><br/>
-<sub>Ideas, systems, possibilities</sub>
+<td width="25%" align="left">
+<img src="https://cdn.simpleicons.org/python" width="32"/><br/>
+<b>AI</b><br/>
+<sub>Explore intelligence</sub>
 </td>
-
-<td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/codeforces" width="42"/><br/><br/>
+<td width="25%" align="left">
+<img src="https://cdn.simpleicons.org/opencv" width="32"/><br/>
+<b>Vision</b><br/>
+<sub>Understand images</sub>
+</td>
+<td width="25%" align="left">
+<img src="https://cdn.simpleicons.org/react" width="32"/><br/>
 <b>Build</b><br/>
-<sub>Projects that solve something real</sub>
+<sub>Create interfaces</sub>
 </td>
-
-<td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/figma" width="42"/><br/><br/>
-<b>Refine</b><br/>
-<sub>Make it useful, clear and better</sub>
+<td width="25%" align="left">
+<img src="https://cdn.simpleicons.org/postgresql" width="32"/><br/>
+<b>Data</b><br/>
+<sub>Structure information</sub>
 </td>
 </tr>
 </table>
-
-<br/>
-
-AI & Data Science Student · Developer · Problem Solver · Creative Builder
-
-</div>
-
-<div align="center">
 
 Education
 
 <table>
 <tr>
-<td align="center">
+<td width="72%" align="left">
 
-B.Tech — Artificial Intelligence & Data Science
+B.Tech — Artificial Intelligence and Data Science
 
 Kongu Engineering College
 
-<br/>
+2024 — 2028
 
-<img src="https://img.shields.io/badge/2024–2028-Student-6C63FF?style=for-the-badge"/>
+</td>
+<td width="28%" align="left">
+
 <img src="https://img.shields.io/badge/CGPA-8.29-2EA44F?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Status-Undergraduate-6C63FF?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
-</div>
+Tech Stack
 
-<div align="center">
+Only technologies with clear, recognizable icons are shown.
 
-My Space
+Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,java&theme=light" alt="Programming Languages"/>
+
+Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=light" alt="Frontend Technologies"/>
+
+Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" alt="Backend Technologies"/>
+
+Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light" alt="Databases"/>
+
+AI / Vision
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=light" alt="AI Technologies"/>
+
+Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=light" alt="Developer Tools"/>
+
+Experience
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/python" width="38"/><br/><br/>
-<b>AI</b>
-</td>
+<td width="18%" align="left">
 
-<td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/opencv" width="38"/><br/><br/>
-<b>Vision</b>
-</td>
+<img src="https://cdn.simpleicons.org/react" width="46"/>
 
-<td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/react" width="38"/><br/><br/>
-<b>Web</b>
 </td>
+<td width="82%" align="left">
 
-<td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/googleanalytics" width="38"/><br/><br/>
-<b>Data</b>
+MERN Stack Developer — Tekriq Technologies
+
+Apr 2026 — Jul 2026
+
+<img src="https://img.shields.io/badge/React-Frontend-111111?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-111111?style=flat-square&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/MongoDB-Data-111111?style=flat-square&logo=mongodb"/>
+
+<br/><br/>
+
+Public Site → Admin Interface → Backend → Database → Automation
+
 </td>
 </tr>
 </table>
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mongodb,tensorflow,pytorch,opencv&perline=8"/>
-
-</div>
-
-<div align="center">
-
-Selected Work
+Featured Work
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" align="left">
+
+<img src="https://cdn.simpleicons.org/applemusic" width="38"/>
 
 Circular Playlist
 
-<img src="https://cdn.simpleicons.org/applemusic" width="46"/>
+Play → Navigate → Loop
 
-<br/>
-
-Loop → Play → Repeat
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DSA-Project-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Structures-Project-111111?style=flat-square"/>
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="left">
+
+<img src="https://cdn.simpleicons.org/openai" width="38"/>
 
 AI Student Mentor
 
-<img src="https://cdn.simpleicons.org/openai" width="46"/>
-
-<br/>
-
-Ask → Understand → Guide
-
-<br/><br/>
+Ask → Analyze → Guide
 
 <img src="https://img.shields.io/badge/AI-Project-111111?style=flat-square"/>
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="left">
+
+<img src="https://cdn.simpleicons.org/tensorflow" width="38"/>
 
 Cattle Breed Prediction
 
-<img src="https://cdn.simpleicons.org/tensorflow" width="46"/>
-
-<br/>
-
 Image → Model → Prediction
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Vision-Project-111111?style=flat-square"/>
+<a href="https://github.com/BHARANI259/cattle_breed">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
-<div align="center">
-
-Experience Snapshot
+Interests
 
 <table>
 <tr>
-<td align="center" width="28%">
-<img src="https://cdn.simpleicons.org/react" width="48"/><br/><br/>
-<b>MERN Stack Developer</b>
-</td>
-
-<td align="left" width="72%">
-
-Tekriq Technologies
-
-Apr 2026 – Jul 2026
-
-<br/>
-
-Frontend → Backend → Database → Automation
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs"/>
-<img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-What I Like Working On
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/databricks" width="42"/><br/><br/>
+<td width="33%" align="left">
+<img src="https://cdn.simpleicons.org/databricks" width="34"/><br/>
 <b>Data Science</b>
 </td>
-
-<td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/figma" width="42"/><br/><br/>
+<td width="33%" align="left">
+<img src="https://cdn.simpleicons.org/figma" width="34"/><br/>
 <b>Design Thinking</b>
 </td>
-
-<td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/googleanalytics" width="42"/><br/><br/>
+<td width="33%" align="left">
+<img src="https://cdn.simpleicons.org/googleanalytics" width="34"/><br/>
 <b>Data Analytics</b>
 </td>
-
 </tr>
 </table>
 
-</div>
-
-<div align="center">
-
-Credentials
+Certifications
 
 <table>
 <tr>
 
-<td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/ibm" width="52"/><br/><br/>
+<td width="33%" align="left">
+<img src="https://cdn.simpleicons.org/ibm" width="42"/><br/>
 <b>Generative AI</b><br/>
 <sub>IBM</sub>
 </td>
 
-<td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/databricks" width="52"/><br/><br/>
-<b>Data Processing</b><br/>
+<td width="33%" align="left">
+<img src="https://cdn.simpleicons.org/databricks" width="42"/><br/>
+<b>Data Processing & Visualization</b><br/>
 <sub>NASSCOM</sub>
 </td>
 
-<td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/javascript" width="52"/><br/><br/>
+<td width="33%" align="left">
+<img src="https://cdn.simpleicons.org/javascript" width="42"/><br/>
 <b>JavaScript</b><br/>
 <sub>Infosys</sub>
 </td>
@@ -269,81 +235,101 @@ Credentials
 </tr>
 </table>
 
-</div>
-
-<div align="center">
-
 Leadership
 
 <table>
 <tr>
 
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Class-Representative-111111?style=for-the-badge"/>
+<td width="33%" align="left">
+
+Class Representative<sub>Kongu Engineering College</sub>
+
 </td>
 
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Quiz_Club-Executive_Member-111111?style=for-the-badge"/>
+<td width="33%" align="left">
+
+Executive Member<sub>Quiz Club, KEC</sub>
+
 </td>
 
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/KEC_Coding_Forum-Joint_Secretary-111111?style=for-the-badge"/>
+<td width="33%" align="left">
+
+Joint Secretary<sub>KEC Coding Forum</sub>
+
 </td>
 
 </tr>
 </table>
 
-</div>
+GitHub Activity
 
-<div align="center">
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=BHARANI259&show_icons=true&hide_border=true&rank_icon=github"
+alt="GitHub Stats"
+/><img
+width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARANI259&layout=compact&hide_border=true"
+alt="Top Languages"
+/>
 
-GitHub Pulse
+<br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"/>
+<img
+width="76%"
+src="https://streak-stats.demolab.com?user=BHARANI259&hide_border=true"
+alt="GitHub Streak"
+/>
 
-<br/><br/>
+<br/>
 
-<img width="78%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true"/>
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=BHARANI259&hide_border=true&area=true"
+alt="Contribution Graph"
+/>
 
-<br/><br/>
+Build Philosophy
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&area=true"/>
-
-</div>
-
-<div align="center">
-
-Direction
-
-Curiosity
-   ↓
-Ideas
-   ↓
+Observe
+   │
+   ▼
+Understand
+   │
+   ▼
+Design
+   │
+   ▼
 Build
-   ↓
-Test
-   ↓
+   │
+   ▼
 Improve
-   ↓
-Create Something Useful
 
-</div>
-
-<div align="center">
-
-Connect
+Contact
 
 <a href="mailto:bharanikanagaraj2007@gmail.com">
-<img src="https://img.shields.io/badge/Email-Bharani_Kanagaraj-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-bharanikanagaraj2007%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Bharani_Kanagaraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="tel:+919943121240">
+<img src="https://img.shields.io/badge/Phone-+91%209943121240-111111?style=for-the-badge"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%"/>
+<a href="https://www.linkedin.com/in/bharani-kanagaraj/">
+<img src="https://img.shields.io/badge/LinkedIn-Bharani_Kanagaraj-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://bharanikanagaraj.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-bharanikanagaraj.vercel.app-111111?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/BHARANI259">
+<img src="https://img.shields.io/badge/GitHub-BHARANI259-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/BHARANIK2007/">
+<img src="https://img.shields.io/badge/LeetCode-BHARANIK2007-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+</a>
 
-</div>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&section=footer" width="100%" alt="Footer"/>
