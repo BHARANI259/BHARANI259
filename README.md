@@ -7,38 +7,38 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Bharani%20Kanagaraj&fontAlign=50&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Full%20Stack&descAlign=50&descAlignY=58&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;text=Bharani%20Kanagaraj&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=AI%20and%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Full%20Stack&amp;descAlign=50&amp;descAlignY=58&amp;animation=fadeIn"
 width="100%"
 />
 
 <br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Undergraduate;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+Scalable+AI-Powered+Solutions;Python+%7C+Java+%7C+MERN+Stack"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=800&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=AI+and+Data+Science+Undergraduate;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+Scalable+AI-Powered+Solutions;Python+%7C+Java+%7C+MERN+Stack"
 alt="Typing SVG"
 />
 
 <br/><br/>
 
 <a href="mailto:bharanikanagaraj2007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 <a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-informational?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-informational?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white"/>
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Profile-informational?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-informational?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 <a href="YOUR_LEETCODE_URL">
-  <img src="https://img.shields.io/badge/LeetCode-Solve-informational?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-Solve-informational?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;style=for-the-badge&amp;label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -114,7 +114,7 @@ Kongu Engineering College
 <h3 align="center">Programming</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,c&amp;theme=dark"/>
 </div>
 
 <br/>
@@ -123,14 +123,14 @@ Kongu Engineering College
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&amp;theme=dark"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Keras-Deep%20Learning-informational?style=for-the-badge&logo=keras"/>
-<img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-informational?style=for-the-badge&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-informational?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-Data%20Processing-informational?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Keras-Deep%20Learning-informational?style=for-the-badge&amp;logo=keras"/>
+<img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-informational?style=for-the-badge&amp;logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-informational?style=for-the-badge&amp;logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Processing-informational?style=for-the-badge&amp;logo=pandas"/>
 <img src="https://img.shields.io/badge/NLTK-NLP-informational?style=for-the-badge"/>
 
 </div>
@@ -140,7 +140,7 @@ Kongu Engineering College
 <h3 align="center">Web Development</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express&amp;theme=dark"/>
 </div>
 
 <br/>
@@ -148,7 +148,7 @@ Kongu Engineering College
 <h3 align="center">Data & Infrastructure</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,git,github&amp;theme=dark"/>
 </div>
 
 <br/>
@@ -231,10 +231,10 @@ Tekriq Technologies
 
 Apr 2026 ━━━━━━━━━━━━━━━━━━ Jul 2026
 
-<img src="https://img.shields.io/badge/React-Frontend-informational?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-Backend-informational?style=flat-square&logo=nodedotjs"/>
-<img src="https://img.shields.io/badge/Express.js-API-informational?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-Database-informational?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/React-Frontend-informational?style=flat-square&amp;logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-informational?style=flat-square&amp;logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/Express.js-API-informational?style=flat-square&amp;logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-informational?style=flat-square&amp;logo=mongodb"/>
 
 <br/><br/>
 
@@ -300,7 +300,7 @@ NLP · Machine Learning
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-ML-informational?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Python-ML-informational?style=flat-square&amp;logo=python"/>
 <img src="https://img.shields.io/badge/NLP-Academic%20AI-success?style=flat-square"/>
 
 <br/><br/>
@@ -331,8 +331,8 @@ Deep Learning · Computer Vision
 
 <br/>
 
-<img src="https://img.shields.io/badge/TensorFlow-CNN-informational?style=flat-square&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/OpenCV-Vision-success?style=flat-square&logo=opencv"/>
+<img src="https://img.shields.io/badge/TensorFlow-CNN-informational?style=flat-square&amp;logo=tensorflow"/>
+<img src="https://img.shields.io/badge/OpenCV-Vision-success?style=flat-square&amp;logo=opencv"/>
 
 <br/><br/>
 
@@ -453,12 +453,12 @@ JavaScript<br/><br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;hide_border=true&amp;langs_count=8"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&amp;hide_border=true"/>
 
 </div>
 
@@ -467,7 +467,7 @@ JavaScript<br/><br/>
 <h2 align="center">Contribution Activity</h2>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&area=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;hide_border=true&amp;area=true" width="98%"/>
 </div>
 
 <br/>
@@ -475,7 +475,7 @@ JavaScript<br/><br/>
 <h2 align="center">GitHub Highlights</h2>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&no-frame=true&column=6&margin-w=10&margin-h=10" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&amp;no-frame=true&amp;column=6&amp;margin-w=10&amp;margin-h=10" width="95%"/>
 </div>
 
 <br/>
@@ -519,19 +519,19 @@ Artificial Intelligence
 <div align="center">
 
 <a href="mailto:bharanikanagaraj2007@gmail.com">
-<img src="https://img.shields.io/badge/bharanikanagaraj2007%40gmail.com-Email-informational?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/bharanikanagaraj2007%40gmail.com-Email-informational?style=for-the-badge&amp;logo=gmail"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/Bharani%20Kanagaraj-LinkedIn-informational?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/Bharani%20Kanagaraj-LinkedIn-informational?style=for-the-badge&amp;logo=linkedin"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/YOUR_GITHUB_USERNAME-GitHub-informational?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/YOUR_GITHUB_USERNAME-GitHub-informational?style=for-the-badge&amp;logo=github"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
