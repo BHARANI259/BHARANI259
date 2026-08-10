@@ -411,7 +411,7 @@ width="45"
 
 ## <img src="https://img.icons8.com/ios-filled/26/ffffff/code.png" width="24"/> LeetCode
 
-<p align="center">
+<div align="center">
 
 <a href="https://leetcode.com/u/BHARANIK2007/">
 
@@ -421,7 +421,7 @@ src="https://leetcard.jacoblin.cool/BHARANIK2007?theme=dark&font=Poppins&ext=hea
 
 </a>
 
-</p>
+</div>
 
 ---
 
