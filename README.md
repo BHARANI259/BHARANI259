@@ -1,216 +1,466 @@
-<!-- ============================================================
- BHARANI KANAGARAJ — BALANCED VISUAL GITHUB PROFILE README
- Clean • Left aligned • Minimal prose • No tables • Visual first
-============================================================= -->
+<!-- ============================ BHARANI KANAGARAJ ============================ -->
 
-<!-- ============================ HERO ============================ -->
-
-<img
-src="https://capsule-render.vercel.app/api?type=venom&amp;height=205&amp;text=Bharani%20Kanagaraj&amp;fontSize=48&amp;fontAlign=25&amp;fontAlignY=41&amp;desc=AI%20and%20Data%20Science%20%7C%20Developer%20%7C%20Creative%20Builder&amp;descAlign=27&amp;descAlignY=63&amp;animation=fadeIn"
-width="100%"
-alt="Bharani Kanagaraj"
-/>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=850&amp;center=false&amp;vCenter=true&amp;width=760&amp;lines=Building+useful+things+with+AI+and+code;Exploring+data%2C+vision+and+web;Learn+%E2%86%92+Build+%E2%86%92+Improve"
-alt="Profile introduction"
-/>
-
-<br/>
-
-<a href="mailto:bharanikanagaraj2007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/bharani-kanagaraj/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
-</a>
-<a href="https://bharanikanagaraj.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/>
-</a>
-<a href="https://github.com/BHARANI259">
-  <img src="https://img.shields.io/badge/GitHub-BHARANI259-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/BHARANIK2007/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/BHARANI259?style=flat-square&amp;logo=github&amp;label=Followers"/>
-<img src="https://komarev.com/ghpvc/?username=BHARANI259&amp;style=flat-square&amp;label=Profile%20Views"/>
-
-<img src="https://img.icons8.com/ios-filled/24/4F46E5/user-male-circle.png"/> About
-
-B.Tech Artificial Intelligence and Data ScienceKongu Engineering College · 2024–2028 · CGPA 8.29
-
-AI, data, computer vision and web development are the areas I enjoy exploring through practical projects.
-
-<img src="https://img.shields.io/badge/Data%20Science-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design%20Thinking-1F2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-374151?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge"/>
-
-<img src="https://img.icons8.com/ios-filled/24/4F46E5/toolbox.png"/> Tech Stack
-
-Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,java"/>
-
-Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs"/>
-
-Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
-
-AI / Vision
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
-Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github"/>
-
-<img src="https://img.icons8.com/ios-filled/24/4F46E5/briefcase.png"/> Experience
-
-MERN Stack Developer — Tekriq Technologies
-
-Apr 2026 – Jul 2026
-
-<img src="https://img.shields.io/badge/React-Frontend-20232A?style=flat-square&amp;logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-Backend-20232A?style=flat-square&amp;logo=nodedotjs"/>
-<img src="https://img.shields.io/badge/Express-API-20232A?style=flat-square&amp;logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-Database-20232A?style=flat-square&amp;logo=mongodb"/>
-
-Built a responsive interior-design platform with separate public and admin interfaces, backend services, database integration, enquiry email flow and chatbot support.
-
-Public UI → Admin → API → MongoDB → Email / Chatbot
-
-<img src="https://img.icons8.com/ios-filled/24/4F46E5/source-code.png"/> Projects
-
-<img src="https://cdn.simpleicons.org/applemusic" width="28"/> Circular Playlist
-
-Circular playlist implementation using linked data structures for continuous navigation and looping.
-
-<img src="https://img.shields.io/badge/Java-111111?style=flat-square&amp;logo=openjdk"/>
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&amp;logo=python"/>
-
-Track → Next / Previous → Loop
-
-<br/>
-
-<img src="https://cdn.simpleicons.org/openai" width="28"/> AI Student Mentor
-
-AI-based mentoring system for learning recommendations, doubt support, study planning and performance insights.
-
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&amp;logo=python"/>
-<img src="https://img.shields.io/badge/NLP-111111?style=flat-square"/>
-
-Student Input → Analysis → Guidance
-
-<br/>
-
-<img src="https://cdn.simpleicons.org/tensorflow" width="28"/> Cattle Breed Prediction
-
-Computer-vision system for classifying cattle breeds from images using deep learning, preprocessing and augmentation.
-
-<img src="https://img.shields.io/badge/TensorFlow-111111?style=flat-square&amp;logo=tensorflow"/>
-<img src="https://img.shields.io/badge/Keras-111111?style=flat-square&amp;logo=keras"/>
-<img src="https://img.shields.io/badge/OpenCV-111111?style=flat-square&amp;logo=opencv"/>
-
-<a href="https://github.com/BHARANI259/cattle_breed">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
-</a>
-
-<img src="https://img.icons8.com/ios-filled/24/4F46E5/certificate.png"/> Certifications
-
-<img src="https://cdn.simpleicons.org/ibm" width="30"/> IBM — Generative AI
-
-<img src="https://img.icons8.com/ios-filled/30/4F46E5/certificate.png"/> NASSCOM — Data Processing and Visualization
-
-<img src="https://cdn.simpleicons.org/javascript" width="30"/> Infosys — JavaScript
-
-<img src="https://img.icons8.com/ios-filled/24/4F46E5/conference-call.png"/> Leadership
-
-<img src="https://img.shields.io/badge/Class%20Representative-KEC-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Executive%20Member-Quiz%20Club-1F2937?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Joint%20Secretary-KEC%20Coding%20Forum-374151?style=for-the-badge"/>
-
-<img src="https://img.icons8.com/ios-filled/24/4F46E5/combo-chart.png"/> GitHub Analytics
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHARANI259&amp;theme=github_dark"
-width="100%"
-alt="GitHub profile summary"
-/>
-
-<br/>
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=BHARANI259&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true"
-width="48%"
-alt="GitHub stats"
-/><img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARANI259&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true"
-width="40%"
-alt="Top languages"
-/>
-
-<img src="https://img.icons8.com/ios-filled/24/4F46E5/activity-history.png"/> Activity
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=BHARANI259&amp;theme=github-compact&amp;hide_border=true&amp;area=true"
-width="100%"
-alt="GitHub activity graph"
-/>
-
-<img src="https://img.icons8.com/ios-filled/24/4F46E5/code.png"/> LeetCode
-
-<a href="https://leetcode.com/u/BHARANIK2007/">
+<p align="center">
   <img
-    src="https://leetcard.jacoblin.cool/BHARANIK2007?theme=dark&amp;ext=heatmap"
-    width="68%"
-    alt="LeetCode profile"
+    src="./assets/profile-banner.svg"
+    alt="Bharani Kanagaraj GitHub Profile Banner"
+    width="100%"
   />
-</a>
+</p>
 
-<img src="https://img.icons8.com/ios-filled/24/4F46E5/idea.png"/> Build Philosophy
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=AI%20%26%20Data%20Science%20Undergraduate;Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20NLP;Computer%20Vision%20%7C%20Full%20Stack%20Development;Building%20Practical%20AI%20Solutions"
+    alt="Typing Introduction"
+  />
+</p>
 
-Understand the problem → Design simply → Build → Test → Improve
+<p align="center">
+  <img
+    src="https://img.shields.io/github/followers/BHARANI259?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=1f6feb"
+  />
+  <img
+    src="https://img.shields.io/github/stars/BHARANI259?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=6f42c1"
+  />
+  <img
+    src="https://komarev.com/ghpvc/?username=BHARANI259&style=for-the-badge&color=0e75b6&label=Profile+Views"
+  />
+</p>
 
-<img src="https://img.icons8.com/ios-filled/24/4F46E5/link.png"/> Connect
+<p align="center">
+  <a href="mailto:bharanikanagaraj2007@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
 
-Bharani KanagarajNamakkal, Tamil Nadu
+  <a href="https://www.linkedin.com/in/bharani-kanagaraj/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
 
-<a href="mailto:bharanikanagaraj2007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bharanikanagaraj2007%40gmail.com-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white"/>
-</a>
-<a href="tel:+919943121240">
-  <img src="https://img.shields.io/badge/Phone-+91%209943121240-111111?style=flat-square"/>
-</a>
+  <a href="https://bharanikanagaraj.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"
+    />
+  </a>
+
+  <a href="https://github.com/BHARANI259">
+    <img
+      src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+
+  <a href="https://leetcode.com/u/BHARANIK2007/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    />
+  </a>
+</p>
+
+---
+
+## <img src="https://img.icons8.com/ios-filled/26/ffffff/artificial-intelligence.png" width="24"/> About Me
+
+<p align="center">
+  AI & Data Science undergraduate focused on building practical solutions across
+  <strong>Machine Learning, Deep Learning, Natural Language Processing,
+  Computer Vision, Data Science and Full-Stack Development</strong>.
+</p>
+
+<p align="center">
+  Strongly interested in transforming AI concepts into scalable systems that
+  solve meaningful real-world problems.
+</p>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/bharani-kanagaraj/">
-  <img src="https://img.shields.io/badge/LinkedIn-Bharani%20Kanagaraj-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"/>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/B.Tech-Artificial%20Intelligence%20%26%20Data%20Science-111827?style=for-the-badge"
+  />
+  <img
+    src="https://img.shields.io/badge/Kongu-Engineering%20College-1F6FEB?style=for-the-badge"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/CGPA-8.29-16A34A?style=for-the-badge"
+  />
+  <img
+    src="https://img.shields.io/badge/Namakkal-Tamil%20Nadu-F59E0B?style=for-the-badge"
+  />
+</p>
+
+---
+
+## <img src="https://img.icons8.com/ios-filled/26/ffffff/goal.png" width="24"/> Focus Areas
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-1E293B?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design%20Thinking-111827?style=for-the-badge"/>
+
+</p>
+
+---
+
+## <img src="https://img.icons8.com/ios-filled/26/ffffff/toolbox.png" width="24"/> Core Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+### AI / Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+</p>
+
+### Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+</p>
+
+### Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge"/>
+</p>
+
+---
+
+## <img src="https://img.icons8.com/ios-filled/26/ffffff/briefcase.png" width="24"/> Professional Experience
+
+### MERN Stack Developer — Tekriq Technologies
+
+**April 2026 – July 2026**
+
+> Developed a responsive full-stack interior design platform using the MERN ecosystem with dedicated public and administrative interfaces.
+
+- Developed responsive website interfaces using the **JavaScript-based MERN stack**
+- Built separate **public-facing and administrative interfaces**
+- Developed backend services using **Node.js and Express.js**
+- Integrated **MongoDB** for content, projects, enquiries and administrative data
+- Implemented an **SMTP-based email workflow** for customer enquiries
+- Integrated a **Groq API-powered chatbot** for automated website assistance
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb"/>
+</p>
+
+---
+
+## <img src="https://img.icons8.com/ios-filled/26/ffffff/light-on.png" width="24"/> Featured Projects
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">Cattle Breed Prediction</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Vision-CNN-EE4C2C?style=for-the-badge"/>
+</p>
+
+Deep learning-based cattle breed classification system developed using image processing and CNN techniques.
+
+**Core Work**
+
+- CNN image classification
+- Image preprocessing
+- Image augmentation
+- Feature extraction
+- Model training
+- Model evaluation
+
+**Stack**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/BHARANI259/cattle_breed">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://bharanikanagaraj.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-bharanikanagaraj.vercel.app-111111?style=flat-square&amp;logo=vercel&amp;logoColor=white"/>
-</a>
-<a href="https://github.com/BHARANI259">
-  <img src="https://img.shields.io/badge/GitHub-BHARANI259-181717?style=flat-square&amp;logo=github&amp;logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/BHARANIK2007/">
-  <img src="https://img.shields.io/badge/LeetCode-BHARANIK2007-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=white"/>
-</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">AI Student Mentor</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-NLP-0A66C2?style=for-the-badge"/>
+</p>
+
+AI-based mentoring system designed to provide academic guidance and career support.
+
+**Core Work**
+
+- Personalized learning recommendations
+- Doubt clarification
+- Study planning
+- Topic suggestions
+- Resource recommendations
+- Performance insights
+
+**Stack**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Machine%20Learning%20%7C%20NLP-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">Circular Playlist</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures-Circular%20List-F59E0B?style=for-the-badge"/>
+</p>
+
+Circular playlist system designed to provide continuous music navigation and looping.
+
+**Core Work**
+
+- Circular linked lists
+- Queue-based navigation
+- Next track operation
+- Previous track operation
+- Continuous playback
+- Automatic looping
+
+**Stack**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python"/>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## <img src="https://img.icons8.com/ios-filled/26/ffffff/certificate.png" width="24"/> Certifications
+
+<p align="center">
+
+<img
+src="https://img.shields.io/badge/IBM-Generative%20AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white"
+/>
+
+<img
+src="https://img.shields.io/badge/NASSCOM-Data%20Processing%20%26%20Visualization-1F6FEB?style=for-the-badge"
+/>
+
+<img
+src="https://img.shields.io/badge/Infosys-JavaScript-007CC3?style=for-the-badge"
+/>
+
+</p>
+
+---
+
+## <img src="https://img.icons8.com/ios-filled/26/ffffff/conference.png" width="24"/> Leadership
+
+<table align="center">
+<tr>
+
+<td width="33%" align="center">
+
+<img
+src="https://img.icons8.com/ios-filled/50/ffffff/student-male.png"
+width="45"
+/>
+
+### Class Representative
+
+**Kongu Engineering College**
+
+</td>
+
+<td width="33%" align="center">
+
+<img
+src="https://img.icons8.com/ios-filled/50/ffffff/quiz.png"
+width="45"
+/>
+
+### Executive Member
+
+**Quiz Club — KEC**
+
+</td>
+
+<td width="33%" align="center">
+
+<img
+src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png"
+width="45"
+/>
+
+### Joint Secretary
+
+**KEC Coding Forum**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## <img src="https://img.icons8.com/ios-filled/26/ffffff/graduation-cap.png" width="24"/> Education
+
+### Bachelor of Technology — Artificial Intelligence and Data Science
+
+**Kongu Engineering College**
+
+**August 2024 – May 2028**
+
+<img src="https://img.shields.io/badge/CGPA-8.29-16A34A?style=for-the-badge"/>
+
+---
+
+## <img src="https://img.icons8.com/ios-filled/26/ffffff/combo-chart.png" width="24"/> GitHub Analytics
+
+<div align="center">
+
+<!-- Top Languages + Top Repositories -->
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARANI259&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHARANI259&theme=tokyonight"
+  height="170"
+/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=90&amp;section=footer" width="100%"/>
+<!-- GitHub Stats + Productive Time -->
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHARANI259&theme=tokyonight"
+  height="170"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHARANI259&theme=tokyonight&utcOffset=5.5"
+  height="170"
+/>
+
+<br/><br/>
+
+<!-- Contribution / Profile Summary -->
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHARANI259&theme=tokyonight"
+  width="90%"
+/>
+
+<br/><br/>
+
+<!-- GitHub Streak -->
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=BHARANI259&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+## <img src="https://img.icons8.com/ios-filled/26/ffffff/code.png" width="24"/> LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/BHARANIK2007/">
+
+<img
+src="https://leetcard.jacoblin.cool/BHARANIK2007?theme=dark&font=Poppins&ext=heatmap"
+/>
+
+</a>
+
+</p>
+
+---
+
+## <img src="https://img.icons8.com/ios-filled/26/ffffff/secured-letter.png" width="24"/> Connect
+
+<p align="center">
+
+<a href="mailto:bharanikanagaraj2007@gmail.com">
+<img
+src="https://img.shields.io/badge/Email-bharanikanagaraj2007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+/>
+</a>
+
+<a href="https://www.linkedin.com/in/bharani-kanagaraj/">
+<img
+src="https://img.shields.io/badge/LinkedIn-Bharani%20Kanagaraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+/>
+</a>
+
+<a href="https://bharanikanagaraj.vercel.app/">
+<img
+src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"
+/>
+</a>
+
+<a href="https://github.com/BHARANI259">
+<img
+src="https://img.shields.io/badge/GitHub-BHARANI259-181717?style=for-the-badge&logo=github&logoColor=white"
+/>
+</a>
+
+</p>
+
+<br/>
+
+<h3 align="center">
+Open to Internships • AI/ML • Data Science • Full Stack • Research
+</h3>
+
+<p align="center">
+<strong>Building practical technology for meaningful real-world impact.</strong>
+</p>
