@@ -269,7 +269,7 @@ Circular playlist system designed to provide continuous music navigation and loo
 **Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python"/>
+  <img src="https://skillicons.dev/icons?i=c"/>
 </p>
 
 </td>
